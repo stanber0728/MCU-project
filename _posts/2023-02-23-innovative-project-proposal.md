@@ -11,6 +11,8 @@ This homework is to specify a Future Home application and describe the key featu
 ---
 ## Futre Home Applications
 
+<iframe width="692" height="389" src="https://www.youtube.com/embed/ar_Bq6_Ovjc" title="聊天機器人成恐怖情人? ABC實測微軟Bing 它竟找記者訴苦｜TVBS新聞 @TVBSNEWS01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Nextflix movie: Big Bug
 <iframe width="993" height="559" src="https://www.youtube.com/embed/FWUkh23vBhs" title="BIGBUG Trailer (2022)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
